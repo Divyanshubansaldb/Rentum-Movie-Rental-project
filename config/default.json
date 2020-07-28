@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://localhost/rently",
+  "db": "mongodb://localhost/rentum",
   "port": "3900",
   "requiresAuth": false
 }
