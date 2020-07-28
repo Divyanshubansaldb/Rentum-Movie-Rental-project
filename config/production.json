@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "rentum_jwtPrivateKey",
+    "db": "rentum_db",
+    "requiresAuth": true
+}  
